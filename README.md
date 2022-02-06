@@ -13,6 +13,8 @@ the human breath. Since the sensor has a fine sensitivity range of around 2 mete
 
 ![block](https://user-images.githubusercontent.com/63738424/152671961-f431d326-7f3a-410c-865c-e7e2db90aed7.png)
 
+![block1](https://user-images.githubusercontent.com/63738424/152672000-7f16820e-0e76-4f55-b70b-4cfb7dec3cfc.png)
+
 
 
 ## Challenges we ran into
