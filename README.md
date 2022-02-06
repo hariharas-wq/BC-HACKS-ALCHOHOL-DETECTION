@@ -20,7 +20,12 @@ the human breath. Since the sensor has a fine sensitivity range of around 2 mete
 ![block2](https://user-images.githubusercontent.com/63738424/152672060-6c72f2f2-9e56-46e7-9e3f-5e41fd340e86.PNG)
 
 
+## Model Implementation Diagrams 
 
+![WhatsApp Image 2021-11-27 at 9 33 19 PM (1)](https://user-images.githubusercontent.com/63738424/152672226-7ea51875-6d53-4bf3-acd2-21fe95d7769a.jpeg)
+![WhatsApp Image 2021-11-27 at 9 28 39 PM (1)](https://user-images.githubusercontent.com/63738424/152672229-639c1f1e-6cf9-45b0-b3bc-96a4e602de87.jpeg)
+![WhatsApp Image 2021-11-27 at 9 21 15 PM (1)](https://user-images.githubusercontent.com/63738424/152672230-d8e406dc-4d60-48bc-9806-8da401ef0950.jpeg)
+![WhatsApp Image 2021-11-27 at 6 07 43 PM (1)](https://user-images.githubusercontent.com/63738424/152672232-dd3b1d73-9a88-44f7-811f-f81f6f6eddd8.jpeg)
 
 ## Challenges we ran into
 1. The most important challenge we faced was to coordinate and build a hardware project staying in different cities. 
