@@ -16,6 +16,11 @@ the human breath. Since the sensor has a fine sensitivity range of around 2 mete
 ![block1](https://user-images.githubusercontent.com/63738424/152672000-7f16820e-0e76-4f55-b70b-4cfb7dec3cfc.png)
 
 
+## Circuit Diagram
+![block2](https://user-images.githubusercontent.com/63738424/152672060-6c72f2f2-9e56-46e7-9e3f-5e41fd340e86.PNG)
+
+
+
 
 ## Challenges we ran into
 1. The most important challenge we faced was to coordinate and build a hardware project staying in different cities. 
